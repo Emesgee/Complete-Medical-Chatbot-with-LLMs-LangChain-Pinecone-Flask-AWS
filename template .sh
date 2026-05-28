@@ -1,5 +1,6 @@
 mkdir -p src
 mkdir -p research 
+mkdir -p data
 touch src/__init__.py
 touch src/helper.py
 touch src/prompt.py
